@@ -1,0 +1,28 @@
+name: ltx
+favicon: null
+layout_spectrum: 0.034521555760875344
+typography_spectrum: 0.3681924268603325
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.2826600857079029
+  lightness: 0.34946714900434017
+  saturation: 0.783630907535553
+  rhythmicContrast: 0.9517223278526217
+purpose: []
